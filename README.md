@@ -3,6 +3,8 @@
 A Telegram bot that provides random Hafez poetry-based fortune readings.  
 Send `/fal` to get a meaningful and poetic divination from the famous Persian poet Hafez.
 
+You can try the bot here: [@FalHafezMinaJamBot](https://t.me/FalHafezMinaJamBot)
+
 ## Features
 
 - Delivers random and meaningful Hafez poems as fortunes.
