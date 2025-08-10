@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33fbe6c2-2db0-4172-994d-dc0bb4941ce1" name="Changes" comment="" />
+    <list default="true" id="33fbe6c2-2db0-4172-994d-dc0bb4941ce1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Telegrambotproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Minajamfum&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Minajamfum/Telegram-bot-FalHafez.git&quot;,
+    &quot;accountId&quot;: &quot;a25140a1-8497-4d1a-b504-d467215bf099&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Json-fal" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -36,6 +55,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.tamrinselenium.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "editor.reader.mode"
   }
 }]]></component>
